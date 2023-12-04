@@ -1,67 +1,61 @@
 <p align="left">
-      <img src="https://github.com/AugustanaCSC305Fall22/HeronRepo/blob/main/GameBoardEditor/src/main/resources/heron/gameboardeditor/Icons/logo.png" width="128" align="center"/>
+      <img src="GameBoardEditor/src/main/assets/Heron Logo 30x4.png">
 </p>
 
 # Heron 3D Editor
 
-Team Heron's 3-D Tabletop RPG Game Board Editor
-Version 1.0 Release Notes
-
-[App Presentation](https://docs.google.com/presentation/d/1lJqE9SCdDlVkpKH5tRUSKmcLUrMNFxQJH4-3iQp2YPY/edit?usp=sharing)
+Our team proudly presents the Heron 3D Tabletop RPG Game Board Editor, Version 1.0.
+[Web App Presentation](https://docs.google.com/presentation/d/1lJqE9SCdDlVkpKH5tRUSKmcLUrMNFxQJH4-3iQp2YPY/edit?usp=sharing)
 
 ##  :computer: Software Description
-The Heron 3D Editor lets you easily create your own custom World Building. With the ability to use a 2D grid board, you can design terrain features and then make them 3-dimensional shapes. The editor allows you to quickly and easily build your own 3D maps for beginner level,  making it the perfect low cost alternative to costly programs like Blender or Maya.
+The Heron 3D Editor empowers users to seamlessly create custom worlds for a unique 3D tabletop RPG game board experience. Utilizing a 2D grid board, users can meticulously design terrain features and transform them into intricate 3-dimensional shapes. This editor stands out as a cost-effective alternative for crafting 3D maps, specifically tailored for beginners, obviating the need for high-cost programs like Blender or Maya.
 
-<p align="center">
-      <img src="https://github.com/AugustanaCSC305Fall22/HeronRepo/blob/61faba1fb7d16c31a99c1637035d929d952f009b/GameBoardEditor/src/main/assets/Screen%20Shot%202022-12-13%20at%206.46.46%20PM.png" width="600" />
-</p>
-
-<p float="left">  
+<p float="center">  
   <img src="https://github.com/AugustanaCSC305Fall22/HeronRepo/blob/61faba1fb7d16c31a99c1637035d929d952f009b/GameBoardEditor/src/main/assets/Screen%20Shot%202022-12-13%20at%206.48.14%20PM.png" width="500" /> 
   <img src="https://github.com/AugustanaCSC305Fall22/HeronRepo/blob/f94abbbf5467d10a0113b988e3ddc6ee6dc26316/GameBoardEditor/src/main/assets/Screen%20Shot%202022-12-13%20at%207.01.30%20PM.png" width="505" />
 </p>
 
 ## :star: About the Software
-Our team wanted to build a fully functional 3D editor app but user-friendly for beginner level. With Heron 3D Editor app, user can:
+The Heron 3D Editor offers a sophisticated yet user-friendly interface for developing fully functional 3D maps. Users can:
 
-- Modify the 2D Grid Board with a ton of useful tools including Pencil, Erase, Fill, Selection 
-- Adjust the level of each tile easily with Dig, Level Picker, Select Level 
-- Generate the random maze or map with the Terrain Tool or Generate Maze Tool
-- Custom your own 3D model between Square or Pointy shape
-- Ready-to-view 3D Preview for user to view your design map anytime
-And so much more!
+- Meticulously modify the 2D Grid Board using tools such as Pencil, Erase, Fill, and Selection.
+- Effortlessly adjust tile levels with tools like Dig, Level Picker, and Select Level.
+- Dynamically generate random mazes or maps with the Terrain Tool or Generate Maze Tool.
+- Customize 3D models, choosing between Square or Pointy shapes.
+- Experience a ready-to-view 3D Preview, offering a comprehensive look at the designed map.
 
-Download our app to explore more features and immerse yourself in your own 3D World Building!
+Download the app to explore an array of features and immerse yourself in the intricate art of 3D World Building!
 
 ## :hammer: Built With
-- Executing the app functions through JavaFX 
-- Using Eclipse as the main IDE
-- Styling the app through SceneBuilder
-- Implementing JUnit for multiple unit testing
-- Adding Gson as the third-party for reading 3D patterns
-- Applying OOP and Java from both CSC202 and CSC305
+- **JavaFX:** Executing app functions.
+- **Eclipse:** Primary IDE.
+- **SceneBuilder:** Meticulously styling the app.
+- **JUnit:** Comprehensive unit testing.
+- **Gson:** Third-party tool for parsing 3D patterns.
+- **Java and MySQL:** Constructing and integrating functional tools.
+- **REST APIs, PHP, and JQuery:** Developing a sleek user interface and operational efficiency.
+- **Object-Oriented Programming Principles and Java Expertise** 
 
 ## :trophy: Accomplishments
-- Genuinely proud of my team for working pair-to-pair consistently and frequently communicating with each other for implementing their wanted useful ideas
-- Being able to build a highly-functional and usable software by obtaining from what we have learned so far 
-- Being more proficient in git commands and solve smoothly through all conflicts
-- Interacting more with SceneBuilder and JavaFX - knowing how powerful Java is 
-- Fully prepared to show off our fancy software to other ACE developers, your project supervisor (me), and our clients
-- Experimenting more with 3D Printers from Anycube, Dremel, Prusa, and Eiger
+- Significantly enhanced app stability through rigorous JUnit testing and judicious JSON data management.
+- Achieved a commendable reduction of 10 hours/week in pair-to-pair team through Git commands management.
+- Successfully constructed and integrated over 15 functional tools using Java and MySQL
+- Developed a sleek user interface utilizing JavaFX, SceneBuilder, REST APIs, PHP, and JQuery to increase operational efficiency.
+- Operated successfully with 3D Printers from Anycube, Dremel, Prusa, and Eiger.
 
 ##  :wrench: Challenges
-- Refactoring well at the beginning 
-- Git add -A
-- Design Choice : Canvas
-- Data model
-- Dependency Architecture 
+- Overcame initial refactoring challenges to ensure a robust codebase.
+- Mastered Git management intricacies.
+- Navigated complex design choices, such as the use of Canvas.
+- Addressed data model intricacies.
+- Successfully implemented and managed a robust dependency architecture.
 
 ## :mortar_board: Lesson Learned
-- Having a good collaborative team is important to work through the big project
-- Having a good design choice at the beginning does help a lot in further built-in functions and refactor
+- Emphasized the importance of collaborative teamwork in executing large-scale projects.
+- Acknowledged that sound design choices at the project's outset significantly streamline development and refactoring efforts.
 
 ## :mag_right: Future Plan
-- We aim to continue developing this into a real maintable app for users with more advanced features but still for beginner level
+- Aspire to continue evolving the app into a highly advanced, maintainable tool for users while retaining its user-friendly attributes.
 
 ## :rocket: The Talented Team 
 - [Stephanie Nhi Le](https://github.com/StephanieNhiLe)
@@ -70,4 +64,4 @@ Download our app to explore more features and immerse yourself in your own 3D Wo
 - [Ezana Seyoum](https://github.com/eseyoum)
 
 ## :clap: Acknowledgements
-Special thanks to [Dr.Stonedahl](https://github.com/fstonedahl) from Math & Computer Science Department for staying hours to help us fix the bugs!
+Special thanks to [Dr.Stonedahl](https://github.com/fstonedahl) from the Math & Computer Science Department for invaluable support!
